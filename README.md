@@ -2,7 +2,7 @@
 
 ## Project Goal
 
-To design and implement a robust, scalable, and efficient data storage layer for **ShopEZ E-commerce** order data using **Delta Lake on Databricks**. This project demonstrates key Data Lake capabilities required for modern data engineering workflows, ensuring **ACID transactions** and optimized query performance.
+To design and implement a robust, scalable, and efficient data storage layer for **E-commerce** order data using **Delta Lake on Databricks**. This project demonstrates key Data Lake capabilities required for modern data engineering workflows, ensuring **ACID transactions** and optimized query performance.
 
 ---
 
