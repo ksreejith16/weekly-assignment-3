@@ -1,4 +1,4 @@
-# ShopEZ E-commerce Data Lake Implementation (Delta Lake)
+# E-commerce Data Lake Implementation (Delta Lake)
 
 ## Project Goal
 
